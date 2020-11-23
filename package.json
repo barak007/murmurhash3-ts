@@ -1,0 +1,27 @@
+{
+  "name": "murmurhash3-ts",
+  "version": "1.0.0",
+  "description": "murmurhash3 implementation ported to typescript",
+  "main": "murmurhash.js",
+  "keywords": [
+    "murmur",
+    "murmurhash",
+    "murmurhash3",
+    "hash"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  },
+  "repository": "https://github.com/barak007/murmurhash3-ts",
+  "files": [
+    "murmurhash.js",
+    "murmurhash.js.map",
+    "murmurhash.d.ts",
+    "murmurhash.d.ts.map"
+  ]
+}

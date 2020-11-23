@@ -1,0 +1,7 @@
+node_modules
+murmurhash.d.ts
+murmurhash.d.ts.map
+murmurhash.js
+murmurhash.js.map
+package-lock.json
+yarn.lock
