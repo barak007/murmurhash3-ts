@@ -17,11 +17,11 @@ More information about these algorithms can be found at:
 
 ## Install
 
-    `npm install murmurhash3-ts`
+`npm install murmurhash3-ts`
 
-    or
+or
 
-    `yarn add murmurhash3-ts`
+`yarn add murmurhash3-ts`
 
 ## API
 
